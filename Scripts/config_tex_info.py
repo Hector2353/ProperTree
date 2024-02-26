@@ -615,3 +615,4 @@ def special_char(key):
         return u"\u200b"
     else:
         return " "
+
